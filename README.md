@@ -5,10 +5,10 @@ A production-ready full-stack application delivering resilient LLM interactions 
 ---
 
 ## 1. Live URLs
-- **Frontend URL**: `https://keyrelay-frontend.vercel.app` *(Placeholder - replace with deployed Vercel/Netlify URL)*
-- **Backend URL**: `https://keyrelay-backend.onrender.com` *(Placeholder - replace with deployed Render/Railway/Fly.io URL)*
-- **GitHub Repository**: `https://github.com/your-username/llm-keyrelay` *(Placeholder - replace with your repository URL)*
-- **Demo Video**: `https://youtu.be/placeholder-demo` *(Placeholder - replace with video walkthrough link)*
+- **Frontend URL**: https://keyrelay-llm-chatbot.vercel.app
+- **Backend URL**: https://keyrelay-llm-chatbot.onrender.com
+- **GitHub Repository**: https://github.com/Divyanshichandani/keyrelay-llm-chatbot
+- **Demo Video**: (add link after recording)
 
 ---
 
