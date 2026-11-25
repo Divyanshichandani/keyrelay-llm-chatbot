@@ -142,6 +142,7 @@ pytest backend/tests -v
 - **Concurrency & WAL Mode**: SQLite is initialized with `PRAGMA journal_mode=WAL;` and `PRAGMA busy_timeout=5000;`, coupled with thread-safe connection management.
 - **Persistent Volume**: In Docker, data is mounted at `/data/app.db` via a named Docker volume (`appdata`), ensuring message history persists through container restarts and redeployments.
 
+- On Render's free tier there is no persistent disk, so the deployed SQLite history can reset when the service restarts. Locally, Docker mounts a named volume at /data so history survives container restarts.
 ---
 
 ## 4. Verification: how to see failover, cache hits and per-message token usage
