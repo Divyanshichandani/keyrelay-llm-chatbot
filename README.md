@@ -8,7 +8,7 @@ A production-ready full-stack application delivering resilient LLM interactions 
 - **Frontend URL**: https://keyrelay-llm-chatbot.vercel.app
 - **Backend URL**: https://keyrelay-llm-chatbot.onrender.com
 - **GitHub Repository**: https://github.com/Divyanshichandani/keyrelay-llm-chatbot
-- **Demo Video**: (add link after recording)
+
 
 ---
 
